@@ -12,4 +12,4 @@ Projects:
 
 - Data Analysis and Visualization
   - Pandas and NumPy Fundamentals
-    - Project: [Exploring Ebay Car Sales Data]()
+    - Project: [Exploring Ebay Car Sales Data](https://github.com/thienphuvu750/Data-Quest/blob/main/data-analysis-and-visualization/Guided%20Project_%20Exploring%20Ebay%20Car%20Sales%20Data/Basics.ipynb)
