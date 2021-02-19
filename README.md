@@ -15,3 +15,5 @@ Projects:
     - Project: [Exploring Ebay Car Sales Data](https://github.com/thienphuvu750/Data-Quest/blob/main/data-analysis-and-visualization/Guided%20Project_%20Exploring%20Ebay%20Car%20Sales%20Data/Basics.ipynb)
   - Exploratory Data Visualization
     - Project: [Visualizing Earnings Based On College Majors](https://github.com/thienphuvu750/Data-Quest/blob/main/data-analysis-and-visualization/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Basics.ipynb)
+  - Storytelling Through Data Visualization
+    - Project: [Guided Project: Visualizing The Gender Gap In College Degrees](https://github.com/thienphuvu750/Data-Quest/blob/main/data-analysis-and-visualization/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Basics.ipynb)
