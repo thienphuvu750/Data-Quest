@@ -17,3 +17,5 @@ Projects:
     - Project: [Visualizing Earnings Based On College Majors](https://github.com/thienphuvu750/Data-Quest/blob/main/data-analysis-and-visualization/Guided%20Project_%20Visualizing%20Earnings%20Based%20On%20College%20Majors/Basics.ipynb)
   - Storytelling Through Data Visualization
     - Project: [Guided Project: Visualizing The Gender Gap In College Degrees](https://github.com/thienphuvu750/Data-Quest/blob/main/data-analysis-and-visualization/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees/Basics.ipynb)
+  - Data Cleaning and Analysis
+    - Project: [Guided Project: Clean And Analyze Employee Exit Surveys](https://github.com/thienphuvu750/Data-Quest/blob/main/data-analysis-and-visualization/Guided%20Project_%20Clean%20And%20Analyze%20Employee%20Exit%20Surveys/Basics.ipynb)
